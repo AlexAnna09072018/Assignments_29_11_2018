@@ -1,5 +1,4 @@
-#variant 2
-#returns sorted dictionary from the first item in the list "name"
+#variant 2 _ returns sorted dictionary from the first item in the list "name"
 
 def phonebook(name,location):
     i=0
