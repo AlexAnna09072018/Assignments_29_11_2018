@@ -1,0 +1,14 @@
+#variant 2
+#returns sorted dictionary from the first item in the list "name"
+
+def phonebook(name,location):
+    i=0
+    c=0
+    dict={}
+    for i in range(0,len(name)):
+        dict[name[i]]=location[c]
+        c+=1
+        i+=1
+        if i==len(name):
+            for key in sorted(dict.keys()):
+                print key, dict[key] 
