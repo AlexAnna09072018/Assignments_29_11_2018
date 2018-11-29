@@ -1,4 +1,4 @@
-#the comment for the tasks Ah yes and some comments. I was avoiding the solutions you offered, such as zip and one line list-item multiplications, I know that they exist 
+#the comment for the tasks. I was avoiding the solutions you offered, such as zip and one line list-item multiplications, I know that they exist 
 
 
 def mbt(b):
